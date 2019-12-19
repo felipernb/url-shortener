@@ -3,7 +3,7 @@ GEM
   specs:
     hiredis (0.4.3)
     json (1.6.8)
-    rack (1.6.11)
+    rack (1.6.12)
     rack-protection (1.5.5)
       rack
     redis (2.2.2)
